@@ -1,0 +1,33 @@
+.SpamCard{
+    background:white;
+    border-radius: 15px;
+    text-align: center;
+    padding: 30px 30px 70px 35px;
+    max-width: 432px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    }
+    img {
+        
+        margin-bottom: 30px;
+    }
+    p
+    {
+        
+     margin-bottom: 40px;
+    }
+    .btn
+    {
+        
+        text-decoration: none;
+        
+        padding: 18px 62px;
+    }
+    .btn-vermelho{
+        background: #ED6755;
+        color: white;
+    }
+    .btn-azul{
+        background: #1C1B5E;
+        color: white;
+    }
